@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [Solution  URL] (https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL] (https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL:  (https://github.com/yashgjoshi20/Stats-Preview-Card-Component.git)
+- Live Site URL: (https://yashgjoshi20.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
